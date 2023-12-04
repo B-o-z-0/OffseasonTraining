@@ -1,6 +1,6 @@
 package frc.robot;
 
-public class Constants {
+public final class Constants {
     public static enum CANIds {
         leftFalcon1(4),
         rightFalcon1(2),
